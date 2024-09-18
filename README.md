@@ -37,8 +37,7 @@ JavaScript (AJAX): Para interações dinâmicas no frontend sem recarregar a pá
 
 # Modelagem
 ## Diagrama Entidade Relacionamento (DER)
-![Diagrama Entidade-Relacionamento](./assets/DER mini sistema de gestão de produtos.png)
-
+<img src="assets/DER mini sistema de gestão de produtos.png" alt="DER">
 
 ## Relacionamentos
 Usuário possui uma Cestas.
