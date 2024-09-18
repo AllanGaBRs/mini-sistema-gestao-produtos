@@ -41,7 +41,9 @@ JavaScript (AJAX): Para interações dinâmicas no frontend sem recarregar a pá
 
 ## Relacionamentos
 Usuário possui uma Cestas.
+
 Cesta contém múltiplos Produtos.
+
 Fornecedor pode ter múltiplos Produtos.
 
 ## Esboços de Telas
