@@ -56,6 +56,6 @@ Allan Gabriel Moreira da Silva - RA: 252256-1
 
 Arthur Bertolino Ledur - RA:
 
-Ingrid Bearari de Oliveira - RA:
+Ingrid Bearari de Oliveira - RA: 248064-1
 
 Vitor dos Santos Trentini - RA:247245-1
