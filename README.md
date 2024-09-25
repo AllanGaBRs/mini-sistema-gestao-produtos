@@ -54,7 +54,7 @@ Os esboços das telas foram criados usando o Figma e estão disponíveis abaixo:
 
 Allan Gabriel Moreira da Silva - RA: 252256-1
 
-Arthur Bertolino Ledur - RA:
+Arthur Bertolino Ledur - RA: 249631-1
 
 Ingrid Bearari de Oliveira - RA: 248064-1
 
